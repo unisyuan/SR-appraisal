@@ -3,7 +3,7 @@
 天主教輔仁大學附設醫院 李芸瑄 藥師  
 E-mail: c04685@mail.fjuh.fju.edu.tw
 
-96 張互動投影片，16:9；介紹 CEBM、CASP 與 AMSTAR 2，並以 Tiwari et al. 2026 進行文獻實作。
+100 張互動投影片，16:9；介紹 CEBM、CASP 與 AMSTAR 2，並以 Tiwari et al. 2026 進行文獻實作。
 
 ## GitHub Pages 發布
 
